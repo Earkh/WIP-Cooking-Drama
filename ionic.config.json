@@ -1,0 +1,7 @@
+{
+  "name": "Cooking Drama",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
